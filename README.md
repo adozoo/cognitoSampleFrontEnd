@@ -1,7 +1,7 @@
 # sampleFrontend4Cognito
-CognitoのIDトークンを取得するためのサンプルフロントエンドです
+Get Cognito ID Token Sample
 
-以下の、script.jsの先頭3行だけ修正して、index.htmlをブラウザで開いてください。
+Please modify only the first 3 lines of script.js below and open index.html in your browser.
 
 ```js
 const region = 'us-east-2';
